@@ -1,5 +1,5 @@
 # Bocchi The Rock
-*ぼっち・ざ・ろっく!, Botchi Za Rokku!*
+~~*ぼっち・ざ・ろっく!, Botchi Za Rokku!*~~
 ---
 ![download](https://github.com/Dukshan/app-dev/assets/152468057/aba4171a-10ce-4e73-b7ae-7fe42707f3ee)
 
@@ -21,3 +21,6 @@ ___
 - PA-san
 ___
 [BTR Wiki](https://en.wikipedia.org/wiki/Bocchi_the_Rock!)
+___
+
+==Maybe even someone like me can shine==.
