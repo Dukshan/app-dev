@@ -19,5 +19,5 @@ ___
 - Seika Ijichi
 - Hiroi Kikuri
 - PA-san
-
+___
 [BTR Wiki](https://en.wikipedia.org/wiki/Bocchi_the_Rock!)
